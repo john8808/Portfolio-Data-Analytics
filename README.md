@@ -11,9 +11,14 @@ I build dashboards and reporting visuals that helps stakeholder make quicker and
 
 ## Projects
 Sales and profits performance analysis with total sales amount $6.18M, total profit $1.61M, Profit margin $4.56M
-![image!]()
+![image!](Project3 Sales &Profit Dashboard.png)
 
 
 
 
 ## Contact Detail
+let connect and see how we can make a difference.
+[email](obozejohn@gmail.com) obozejohn@gmail.com
+[phone](+234 07062022778) whatsapp +234 07062022778
+[connect with me on linkedin](www.linkedin.com/in/john-ehiabhi-oboze) [click to view](www.linkedin.com/in/john-ehiabhi-oboze)
+[click to download my cv]()
