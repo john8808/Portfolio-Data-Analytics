@@ -10,8 +10,8 @@ I build dashboards and reporting visuals that helps stakeholder make quicker and
 
 
 ## Projects
-
-
+Sales and profits performance analysis with total sales amount $6.18M, total profit $1.61M, Profit margin $4.56M
+![image!]()
 
 
 
